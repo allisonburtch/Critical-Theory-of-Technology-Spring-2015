@@ -81,10 +81,9 @@ In this class we read the [Critical Engineering Manifesto](http://criticalengine
 		* also Kyle and Brian House's [Coversnitch](https://vimeo.com/87564506)
 
 ## Week 3
-4/2 - What was the vision of technology?
+4/2 - What was the vision of technology? How close is this to the present? This class will be a discussion of some of the foundational inventions of computer science and the internet as we know it. 
 * In class:
 	* Steve Jobs - ["Bicycles for the mind"](http://www.youtube.com/watch?v=ob_GX50Za6c) 
-	* In class:
 	* [Douglas Engelbart](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos), [Mother of all Demos](http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet), 1968. We'll watch the highlights [here](https://www.youtube.com/playlist?list=PLCGFadV4FqU2yAqCzKaxnKKXgnJBUrKTE)
 			* first debut of the computer mouse, hyper text, networked computers, GUIs and more
 		* Watch: BBC Horizon: 1977-1978 Now The Chips Are Down. First transmitted in 1978, Horizon examines the rise of the microprocessor and asks if automation presents a problem for the future of British industry.
