@@ -11,10 +11,13 @@
 ## Course description
 With Silicon Valley being both a hegemonic power and an HBO sitcom, the drone technology allowing killing from afar, the 'sharing economy' capitalizing our free time and free space, ever-present algorithms modifying our shopping behaviour, smart phones changing out psychology, and some people only experiencing the 'Internet' through facebook's internet.org, what is the role of the creative technologist? 
 
+
 Alain Badiou, in the first paragraph of _The Rebirth of History_, asks this:  
 
 > "What is going on? Of what are we the half-fascinated, half-devastated witnesses? The continuation, at all costs, of a weary world? A salutary crisis of that world, racked by its victorious expansion? The end of that world? The advent of a different world? What is happening to us in the early years of the century - something that would appear not to have any clear name in any accepted language?"
 
+  
+  
 And so though we see the fire in the distance, but we continue forward. And yet, that's not the end of the story. Global uprisings have never been more connected, and the internet has brought the potential for a global system of information. Art, activism and connection have never been more powerful. 
 
 This class will discuss the role of artists and technologists in this increasing inequal power dynamic of society. How can we create critical engineering --liberation technologies and art that celebrates the human experience-- in an increasingly volatile technological space. What intervientions have been successful? What happens when groups organize via the internet? 
