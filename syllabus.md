@@ -6,7 +6,7 @@
 * **Location:** [School for Poetic Computation](http://sfpc.io/) | [@sfpc](https://twitter.com/sfpc) | [Orbital Labs, 4th Floor](http://orbitalnyc.com/)
 * **When:** Thursdays at 2pm
 * **Instructor:** [Allison Burtch](http://allisonburtch.net), [allison@sfpc.io](mailto:allison@sfpc.io)
-* **[Schedule:](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md#schedule)**
+* **[Schedule:](https://github.com/allisonburtch/Critical-Theory-of-Technology-Spring-2015/blob/master/syllabus.md#schedule)**
 
 ## Course description
 With Silicon Valley being both a hegemonic power and an HBO sitcom, the drone technology allowing killing from afar, the 'sharing economy' capitalizing our free time and free space, ever-present algorithms modifying our shopping behaviour, smart phones changing out psychology, and some people only experiencing the 'Internet' through facebook's internet.org, what is the role of the creative technologist? 
