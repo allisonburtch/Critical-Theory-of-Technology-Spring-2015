@@ -9,43 +9,17 @@
 * **[Schedule:](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md#schedule)**
 
 ## Course description
-With Silicon Valley being both a hegemonic power and an HBO sitcom, the drone war killing from afar, the sharing economy economizing our datafied lives, ever-present algorithms modifying our behaviour, smart phones changing out psychology, and some people only experiencing the 'Internet' through facebook's internet.org, what is the role of the creative technologist? 
+With Silicon Valley being both a hegemonic power and an HBO sitcom, the drone technology allowing killing from afar, the 'sharing economy' capitalizing our free time and free space, ever-present algorithms modifying our shopping behaviour, smart phones changing out psychology, and some people only experiencing the 'Internet' through facebook's internet.org, what is the role of the creative technologist? 
 
 Alain Badiou, in the first paragraph of _The Rebirth of History_, asks this:  
 
 > "What is going on? Of what are we the half-fascinated, half-devastated witnesses? The continuation, at all costs, of a weary world? A salutary crisis of that world, racked by its victorious expansion? The end of that world? The advent of a different world? What is happening to us in the early years of the century - something that would appear not to have any clear name in any accepted language?"
 
-And so we see the fire in the distance, but we continue forward. And yet, that's not the end of the story. Global uprisings have never been more connected, and the internet has brought the potential for a global system of information. Art, activism and connection have never been more powerful. 
+And so though we see the fire in the distance, but we continue forward. And yet, that's not the end of the story. Global uprisings have never been more connected, and the internet has brought the potential for a global system of information. Art, activism and connection have never been more powerful. 
 
-So where is the beauty, the art, the activism that is truly changing things. 
+This class will discuss the role of artists and technologists in this increasing inequal power dynamic of society. How can we create critical engineering --liberation technologies and art that celebrates the human experience-- in an increasingly volatile technological space. What intervientions have been successful? What happens when groups organize via the internet? 
 
-This class, 
-
-
-How, as technologists, do we frame the things we make? What is the role of art? 
-
-Shit is fucked up and bullshit, and we know it. We can't make rent so we sleep at our boyfriend's and airbnb our rooms. Time in your car is now time being an Uber driver. Sell your eggs, sell your sperm, sell your life.
-
-online, we see continued escapades into revolutionary connections and sharing information, and a continued barbarism that devlves into trolling. 
-
-The first thing that the internet brings globally is pornography. (this is how _we_ treat _our_ women #merika)
-
-And yet, and yet. 
-
-brave new machines
-creating liberation technologies in this world
-maybe that's a little too heavy handed
-
-so how do i take this from really general to more specific??
-
-this class will have a focus on the media art interventions used to circumvent the current global crises
-what is performance, communicty building, art, etc
-there will be at least one week where we talk about success stories of activism and global uprising and radical peoeple 
-
-we talked about
-
-
-
+The final project will be decided by the class, and can be either a text-based zine or collaboration on projects.
 
 
 ## Expectations and Structure
