@@ -17,7 +17,6 @@ Alain Badiou, in the first paragraph of _The Rebirth of History_, asks this:
 > "What is going on? Of what are we the half-fascinated, half-devastated witnesses? The continuation, at all costs, of a weary world? A salutary crisis of that world, racked by its victorious expansion? The end of that world? The advent of a different world? What is happening to us in the early years of the century - something that would appear not to have any clear name in any accepted language?"
 
   
-  
 And so though we see the fire in the distance, but we continue forward. And yet, that's not the end of the story. Global uprisings have never been more connected, and the internet has brought the potential for a global system of information. Art, activism and connection have never been more powerful. 
 
 This class will discuss the role of artists and technologists in this increasing inequal power dynamic of society. How can we create critical engineering --liberation technologies and art that celebrates the human experience-- in an increasingly volatile technological space. What intervientions have been successful? What happens when groups organize via the internet? 
@@ -118,22 +117,30 @@ Skim this, it's not necessary but good for historical context.
 Also Lauren McCarthy's [class github](https://github.com/lmccart/AppropriatingInteractionTechnologies/wiki/Security,-surveillance,-and-privacy) has some good resources on surveillance art. And the Artsec [bibliography](https://docs.google.com/document/d/1pIzAObj4aYdRBtgS0MTTW73suGmAUqUQk2_gYwyn2To/edit#).
 
 ## Week 5
-4/16 - Decentralization (subject to change)
+4/16 - Decentralization Part I
+In class: presentation of your Periscope projects, with both the rules and the documentation
 <em>Decentralized computing, decentralized political organizing, decentralized currencies.</em>
 Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html) have disrupted the way we communicate, seemingly leading to a more democratic society. Simultaneously, we've seen a massive centralization of power and wealth. _Protocol_ introduces us to how control can exist after decentralization.
 * Readings
-	* Alexander Galloway, _Protocol_, pgs 3-53 (Introduction and Ch 1 'Physical Media,' though the whole book is worth reading)
-	* [21 Technologies That Will Decentralize the World](http://www.shareable.net/blog/21-technologies-that-will-decentralize-the-world)
-	* Jo Freeman, "[The Tyranny of Structurelessness](http://www.historyisaweapon.com/defcon1/tyrstruct.html)"
+	* Alexander Galloway, _Protocol_, split into groups reading the Introduction and Chapters 1-4, with presentations in class
+
+
+
+## Week 6
+4/23 Decentralization Part II
+
+* Jo Freeman, "[The Tyranny of Structurelessness](http://www.historyisaweapon.com/defcon1/tyrstruct.html)"
 	* Bitcoin
 		- "[Why Bitcoin Matters](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)," Marc Andreesen
 		- "[Bitcoin is the offshore tax haven of the future](http://www.dailydot.com/business/bitcoin-offshore-tax-haven/)," Aaron Sankin 
+	* [21 Technologies That Will Decentralize the World](http://www.shareable.net/blog/21-technologies-that-will-decentralize-the-world)
 
-## Week 6
+
+## Week 7 
 4/23 - How does political change happen? How to groups of people fight power? Examples of success stories. Though we see nothing but horror and bleakness in the news, where is hope?
 	* Examples: Zapatistas, Occupy Wall St, #blacklivesmatter
 
-## Week 7 
+
 4/30 - Art and the Art World
 
 ## Week 8 - TBD, brainstorming and working on final class project
