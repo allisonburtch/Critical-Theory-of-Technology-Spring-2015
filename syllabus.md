@@ -140,8 +140,8 @@ Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/
 4/23 - How does political change happen? How to groups of people fight power? What are some examples of success stories? Though we see nothing but horror and bleakness in the news, where is hope? 
 #####Homework:  
 
-1. Many of these fights have been local and small but effective. Where do you see hope? Where do you see people working together for justice? Share something that perhaps only you know about
-	* Examples: Zapatistas, Occupy Wall St, #blacklivesmatter  
+1. Many of these fights have been local and small but effective. Where do you see successful movements? Where do you see people working together for justice? Share something that perhaps only you know about.
+* Examples: Zapatistas, Occupy Wall St, #blacklivesmatter  
 
 2. The discussion in class was how to best document some of the issues and topics covered in class. What questions would you like to be answering? We'll compile some of the questions and answer them next week  
 
