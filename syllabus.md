@@ -152,7 +152,6 @@ Global, [decentralized networds of computers](http://www.nytimes.com/2013/06/09/
 
 Critique/feedback on final projects. We can set up groups of perhaps 5 or 6 at a time. 
 
-* Finish final class project
 
 Advice: [for artists](http://www.newyorker.com/books/page-turner/the-middle-of-things-advice-for-young-writers)
 
