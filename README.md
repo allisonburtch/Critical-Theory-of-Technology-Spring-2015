@@ -9,5 +9,3 @@
 
 ##[Syllabus](https://github.com/allisonburtch/Critical-Theory-of-Technology-Spring-2015/blob/master/syllabus.md)
 
-##Students' Blogs
-(put your names here :)
